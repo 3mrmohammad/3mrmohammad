@@ -5,7 +5,7 @@ I'm Amr Mohammad, CS Student @ Benha University.
 <p align="center">
   <h1>My Skills</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git" />
   </a>
 </p>
 
