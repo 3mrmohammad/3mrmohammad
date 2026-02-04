@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**3mrmohammad/3mrmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amr Mohammad, CS Student @ Benha University.
 
-Here are some ideas to get you started:
+<p align="center">
+  <h1>My Skills</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git,figma&theme=light" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/dev_amrmo)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/3mrMohammad/)
+
+
+
