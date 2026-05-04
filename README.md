@@ -14,7 +14,7 @@ I'm Amr Mohammad, CS Student @ Benha University.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git,nodejs" />
   </a>
 </p>
 
