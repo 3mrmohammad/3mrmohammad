@@ -4,17 +4,17 @@ I'm Amr Mohammad, CS Student @ Benha University.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3mrmohammad&color=blue)
 
-## 🚀 About Me
+## About Me
 
-💻 Full-Stack Development Enthusiast  
-🏆 Competitive Programming Learner  
-🧠 Passionate about problem solving and understanding how systems work  
+. Full-Stack Development Enthusiast  
+. Competitive Programming Learner  
+. Passionate about problem solving and understanding how systems work  
 
 ## 🛠️ My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,git,nodejs,python,sqlite" />
   </a>
 </p>
 
